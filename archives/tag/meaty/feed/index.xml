@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Meaty &#8211; 30 Leamington Recipes</title>
+	<atom:link href="/archives/tag/meaty/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sun, 13 Jan 2019 16:10:03 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>Moussaka</title>
+		<link>/archives/199</link>
+		
+		<dc:creator><![CDATA[Ian Stark]]></dc:creator>
+		<pubDate>Sun, 13 Jan 2019 16:10:03 +0000</pubDate>
+				<category><![CDATA[Dinner]]></category>
+		<category><![CDATA[Meaty]]></category>
+		<guid isPermaLink="false">https://recipes.stark.scot/?p=199</guid>
+
+					<description><![CDATA[Serves 6, oven at 200°C, takes 2–3 hours overall From BBC Food and the Hairy Bikershttps://www.bbc.com/food/recipes/moussaka_01004 500g lamb mince (original recipe had 750g)1 onion2 cloves garlic1 tsp oregano1½ tsp mint1 bay leaf1 stick cinnamon1 tbsp plain flour200ml red wine400g tin chopped tomatoes2 tbsp tomato purée 2 aubergines1 tbsp sea saltOlive oil500g Maris Piper potatoes 400ml milk50g [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cottage Pie / Shepherd&#8217;s Pie</title>
+		<link>/archives/168</link>
+		
+		<dc:creator><![CDATA[Ian Stark]]></dc:creator>
+		<pubDate>Sat, 18 Aug 2018 20:51:14 +0000</pubDate>
+				<category><![CDATA[Pies]]></category>
+		<category><![CDATA[Meaty]]></category>
+		<guid isPermaLink="false">http://recipes.stark.scot/?p=168</guid>
+
+					<description><![CDATA[>1kg potatoes (To cover the top decently uses a lot of mashed potato)100g butter2 onions2 carrots2 cloves garlic1 stick celery4 tbsp oil200g mushrooms500g beef or lamb mince50g flour100ml Marsala or apple juice400g tinned tomatoes2tsp Worcestershire sauce or Marmite Boil potatoes, drain, put back in pan over heat for one minute. Mash in butter. Cut onion, [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cornish Pasties</title>
+		<link>/archives/142</link>
+		
+		<dc:creator><![CDATA[Ian Stark]]></dc:creator>
+		<pubDate>Sat, 18 Aug 2018 18:11:20 +0000</pubDate>
+				<category><![CDATA[Pies]]></category>
+		<category><![CDATA[Indecisive Recipe]]></category>
+		<category><![CDATA[Meaty]]></category>
+		<category><![CDATA[Tasty]]></category>
+		<guid isPermaLink="false">http://recipes.stark.scot/?p=142</guid>
+
+					<description><![CDATA[Really Devon Pasties, based on recipe from Guardian Saturday Family. http://www.guardian.co.uk/lifeandstyle/2011/jan/22/snapshot-playlist-we-love-to-eat Quantities for 4, but see lots of notes below. 1lb Chuck steak 2–3 Potatoes 2–3 Onions 500g Pastry (short crust) 1 beaten egg for glaze For vegetarian pasty, throw in a carrot and some grated cheese instead of the steak. Chop all ingredients into [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Lasagne</title>
+		<link>/archives/91</link>
+		
+		<dc:creator><![CDATA[Ian Stark]]></dc:creator>
+		<pubDate>Fri, 17 Aug 2018 17:57:07 +0000</pubDate>
+				<category><![CDATA[Dinner]]></category>
+		<category><![CDATA[Meaty]]></category>
+		<guid isPermaLink="false">http://recipes.stark.scot/?p=91</guid>
+
+					<description><![CDATA[Lasagne (Serves 4–5, oven at 180°C) Ragu 1 onion garlic possibly some chopped celery, carrot 1lb mince basil 14oz tin tomatoes tomato purée ½ glass red wine White Sauce (consider making more?) 1½pt milk, or milk &#38; cream 2oz margarine 2oz flour ground nutmeg Lasagne 8oz lasagne parmesan Chop onions and garlic, fry in oil. [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
