@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Drinks &#8211; 30 Leamington Recipes</title>
+	<atom:link href="/archives/category/drinks/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 18 Aug 2018 20:53:34 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>Donna&#8217;s Whisky Fix</title>
+		<link>/archives/172</link>
+		
+		<dc:creator><![CDATA[Ian Stark]]></dc:creator>
+		<pubDate>Sat, 18 Aug 2018 20:53:34 +0000</pubDate>
+				<category><![CDATA[Drinks]]></category>
+		<guid isPermaLink="false">http://recipes.stark.scot/?p=172</guid>
+
+					<description><![CDATA[For those with a miserable cold, child or adult. 50ml whisky (2.8tbs)1tsp sugar2tsp honey2tbs water 2007-11-03 From Donna’s mother, on N. Uist, in Gaelic, relayed by Donna. Because Ian had a cold and was being pathetic.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

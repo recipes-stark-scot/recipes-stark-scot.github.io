@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pineapple &#8211; 30 Leamington Recipes</title>
+	<atom:link href="/archives/tag/pineapple/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 18 Aug 2018 20:52:38 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>Upside-Down Pudding</title>
+		<link>/archives/170</link>
+		
+		<dc:creator><![CDATA[Ian Stark]]></dc:creator>
+		<pubDate>Sat, 18 Aug 2018 20:52:38 +0000</pubDate>
+				<category><![CDATA[Cakes and Biscuits]]></category>
+		<category><![CDATA[Puddings]]></category>
+		<category><![CDATA[Delicious]]></category>
+		<category><![CDATA[Pineapple]]></category>
+		<category><![CDATA[Tasty]]></category>
+		<category><![CDATA[Upside-Down]]></category>
+		<guid isPermaLink="false">http://recipes.stark.scot/?p=170</guid>
+
+					<description><![CDATA[(serves 4–6, oven at 180–190°C) 1oz butterTinned or fresh fruit (pineapple rings, apricot halves)Light brown sugar6oz self-raising flourPinch salt3 eggs6oz caster sugar3oz margarine8″ square tin(Watch out for the leaky tin. Caitlin has the other one.) Melt butter in tin, sprinkle thickly with sugar. Arrange fruit to cover base closely “with an attractive design”. Mix remaining [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
