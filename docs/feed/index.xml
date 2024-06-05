@@ -12,7 +12,7 @@
 	<atom:link href="/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Sun, 02 Jun 2024 17:14:45 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 04 Jun 2024 17:53:20 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,22 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 	<item>
+		<title>Baked Sea Bass with Peppers</title>
+		<link>/archives/243</link>
+		
+		<dc:creator><![CDATA[Ian Stark]]></dc:creator>
+		<pubDate>Tue, 04 Jun 2024 17:52:47 +0000</pubDate>
+				<category><![CDATA[Dinner]]></category>
+		<category><![CDATA[Contains fish]]></category>
+		<category><![CDATA[Tasty]]></category>
+		<guid isPermaLink="false">/?p=243</guid>
+
+					<description><![CDATA[Serves 2, oven at 200°C, takes around 50 minutes overall. Goes well with green beans. From Judith&#8217;s green recipe book. 2 halves sea bass1 red pepper, cut into chunks1 yellow pepper, ditto1 small red onion, cut into wedges2 tomatoes, quartered25g pine nutes15g parsley, choppedOlive oilSalt Put peppers, tomatoes, onion, and salt on a baking tray. [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Mackerel Salad</title>
 		<link>/archives/239</link>
 		
@@ -162,20 +178,6 @@
 		<guid isPermaLink="false">http://recipes.stark.scot/?p=174</guid>
 
 					<description><![CDATA[(serves ??, oven at 180°C) 200g plain flour220g granulated sugar30g cocoa powder1 tsp bicarbonate of soda½ tsp salt1 tbsp white vinegar100ml vegetable oil2 tsp instant coffee250ml water 20cm square tin Mix dry ingredients in a bowl, add remaining ingredients then stir. Pour into tin and bake in a pre-heated oven at 180°C for 30 minutes [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Donna&#8217;s Whisky Fix</title>
-		<link>/archives/172</link>
-		
-		<dc:creator><![CDATA[Ian Stark]]></dc:creator>
-		<pubDate>Sat, 18 Aug 2018 20:53:34 +0000</pubDate>
-				<category><![CDATA[Drinks]]></category>
-		<guid isPermaLink="false">http://recipes.stark.scot/?p=172</guid>
-
-					<description><![CDATA[For those with a miserable cold, child or adult. 50ml whisky (2.8tbs)1tsp sugar2tsp honey2tbs water 2007-11-03 From Donna’s mother, on N. Uist, in Gaelic, relayed by Donna. Because Ian had a cold and was being pathetic.]]></description>
 		
 		
 		
